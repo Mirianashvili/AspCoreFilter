@@ -1,0 +1,9 @@
+C:\Users\Sandro\Desktop\AspCoreFilter\AspCoreFilter\bin\Debug\netcoreapp1.1\AspCoreFilter.deps.json
+C:\Users\Sandro\Desktop\AspCoreFilter\AspCoreFilter\bin\Debug\netcoreapp1.1\AspCoreFilter.runtimeconfig.json
+C:\Users\Sandro\Desktop\AspCoreFilter\AspCoreFilter\bin\Debug\netcoreapp1.1\AspCoreFilter.runtimeconfig.dev.json
+C:\Users\Sandro\Desktop\AspCoreFilter\AspCoreFilter\bin\Debug\netcoreapp1.1\AspCoreFilter.dll
+C:\Users\Sandro\Desktop\AspCoreFilter\AspCoreFilter\obj\Debug\netcoreapp1.1\AspCoreFilter.AssemblyInfo.cs
+C:\Users\Sandro\Desktop\AspCoreFilter\AspCoreFilter\bin\Debug\netcoreapp1.1\AspCoreFilter.pdb
+C:\Users\Sandro\Desktop\AspCoreFilter\AspCoreFilter\obj\Debug\netcoreapp1.1\AspCoreFilter.csprojResolveAssemblyReference.cache
+C:\Users\Sandro\Desktop\AspCoreFilter\AspCoreFilter\obj\Debug\netcoreapp1.1\AspCoreFilter.dll
+C:\Users\Sandro\Desktop\AspCoreFilter\AspCoreFilter\obj\Debug\netcoreapp1.1\AspCoreFilter.pdb
